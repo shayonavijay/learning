@@ -17,7 +17,7 @@ public class App {
 
 	static List<Statement> transactions = new ArrayList<Statement>();
 	static Statement transaction = null;
-	static String path = "/Users/vijay/eclipse-workspace/java8/src/main/java/com/learning/java8/sample.txt";
+	static String path = "/Users/vijay/Documents/GitHub/learning/java8/src/main/java/com/learning/java8/sample.txt";
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
